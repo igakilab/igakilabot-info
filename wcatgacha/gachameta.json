@@ -1,7 +1,7 @@
 {
   "term":{
-      "start":{"y":2016, "m":3, "d":26, "h":16},
-      "end":{"y":2016, "m":4, "d":18, "h":16}
+      "start":{"y":2016, "m":5, "d":27, "h":16},
+      "end":{"y":2016, "m":6, "d":17, "h":16}
   },
 
   "charactors": [
@@ -53,25 +53,23 @@
     {"rare":3, "jobn":8, "name":"テムル"},
     {"rare":3, "jobn":8, "name":"ゼシカ"},
 
-    {"rare":4, "jobn":1, "name":"ミカン"},
-    {"rare":4, "jobn":1, "name":"トモエ"},
-    {"rare":4, "jobn":2, "name":"ジェガル"},
+    {"rare":4, "jobn":1, "name":"ライフォード"},
+    {"rare":4, "jobn":1, "name":"エクル"},
+    {"rare":4, "jobn":2, "name":"ヨシナカ"},
     {"rare":4, "jobn":2, "name":"チャッピー"},
     {"rare":4, "jobn":3, "name":"カルディナ"},
-    {"rare":4, "jobn":3, "name":"ロザリー"},
-    {"rare":4, "jobn":4, "name":"リンデ"},
-    {"rare":4, "jobn":4, "name":"コッペリア"},
-    {"rare":4, "jobn":5, "name":"ジョバンニ"},
-    {"rare":4, "jobn":5, "name":"ミラ"},
-    {"rare":4, "jobn":6, "name":"チェルシー"},
-    {"rare":4, "jobn":6, "name":"ミスモノクローム"},
-    {"rare":4, "jobn":7, "name":"ノブナガ"},
+    {"rare":4, "jobn":3, "name":"チトセ"},
+    {"rare":4, "jobn":4, "name":"メイリン"},
+    {"rare":4, "jobn":4, "name":"バーガー"},
+    {"rare":4, "jobn":5, "name":"ヴィヴィ"},
+    {"rare":4, "jobn":5, "name":"ラクア"},
+    {"rare":4, "jobn":6, "name":"ヤマネ"},
+    {"rare":4, "jobn":6, "name":"ルウシェ"},
+    {"rare":4, "jobn":7, "name":"レーラ"},
     {"rare":4, "jobn":7, "name":"エスメラルダ"},
     {"rare":4, "jobn":8, "name":"カモメ"},
-    {"rare":4, "jobn":8, "name":"レザール"},
-    {"rare":4, "jobn":9, "name":"エイジ"},
-    {"rare":4, "jobn":9, "name":"パルメ"}
+    {"rare":4, "jobn":8, "name":"モニカ"}
 ],
 
-  "imgUrl": "http://cdn.img-conv.gamerch.com/img.gamerch.com/shironekoproject/1461654671.jpg"
+  "imgUrl": "https://cdn.img-conv.gamerch.com/img.gamerch.com/shironekoproject/1464333345.jpg"
 }
